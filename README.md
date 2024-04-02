@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahulsahu8767
+- 👋 Hi, I’m Rahul Sahu
 - 👀 I’m interested in software technology 
 - 🌱 I’m currently learning Engineering College in CSE Branch.
 - 💞️ I’m looking to collaborate on startup companies 
