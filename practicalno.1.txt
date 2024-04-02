@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction</title>
+</head>
+<body bgcolor="orange">
+    <h1>Self Introduction</h1>
+    <h3>Hello everyone</h3>
+    <p><h3>My Name is Rahul Sahu</h3> I am From Priyadarshini J.L College of Engineering in 4th sem CSE.<br>
+    And my Roll no. is 46. Because of intrest in technology i decided to <br> do B.tech i.e Engineering.
+    And now i slowely slowely gather and <br> understand the how our surrounding things and technology work <br>
+    how i can be think and implement positively changes in IT industry <br> for better human revolution problems.<br>
+    </p>
+
+</body>
+</html>

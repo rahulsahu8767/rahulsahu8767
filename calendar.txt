@@ -1,0 +1,7 @@
+import calendar
+print(" Get Calendar ")
+print(" Made By Rahul")
+year=int(input("Enter the year to get calendar :"))
+print("Done!!!")
+print(calendar.calendar(year))
+print("Thank You")
